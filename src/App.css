@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.appTitle {
+  text-align: center;
+  padding: 15px;
+}
+
+.cardGrid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+.topBar {
+  margin-bottom: 40px;
+}
+
+.headerText {
+  margin: auto;
+  display: flex;
+  max-width: 600px;
+  padding: 10px;
+}
+
+.card {
+  margin: 15px;
+  max-width: 300px;
+}
