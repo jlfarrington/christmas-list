@@ -60,7 +60,7 @@ function App() {
       <div className="headerText">
         <Typography>
           This application represents presents Jennifer Wagoner would be so very grateful for.
-          NOTE: this application is in BETA. It currently does not support marking items purchased.
+          NOTE: this application is in early development. It currently does not support marking items purchased.
           You will need to manually communicate with family and friends to ensure no duplicates are purchased.
           This feature will be included on next year's release.
         </Typography>
